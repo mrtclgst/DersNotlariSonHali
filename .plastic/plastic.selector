@@ -1,0 +1,3 @@
+rep "DersNotlariSonHali@mrtclgst@cloud"
+  path "/"
+    smartbranch "/main"
